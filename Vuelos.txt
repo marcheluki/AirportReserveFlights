@@ -1,0 +1,4 @@
+6/2/2023 1 Monterrey-Guadalajara 1000 1200 Aeromexico 12:00 Miranda 1000 4horas
+10/5/2023 2 Monterrey-CdMexico 2000 1000 Volaris 13:00 Antonio 1000 3horas
+25/9/2023 3 Monterrey-Cancun 2500 3000 Viva 14:00 Luis 1000 2horas
+1/11/2023 4 Monterrey-Tijuana 700 4000 Aeromexico 15:00 Juan 1000 1horas

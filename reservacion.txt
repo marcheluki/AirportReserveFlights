@@ -1,0 +1,17 @@
+-----------------------
+*** VUELO ***
+Flight number: 3
+Date: 25/9/2023
+Destination: Monterrey-Cancun
+Price: $2500
+Distance: 3000km
+Airplane Model: Viva
+Hour: 14:00
+Crew: Luis
+Fuel: 1000
+Duracion: 2horas
+Passenger Name: Marce
+TOTAL AMOUNT: $2500
+-----------------------
+
+
